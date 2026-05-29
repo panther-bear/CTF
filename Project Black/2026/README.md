@@ -1,5 +1,5 @@
 ## Context
 
-This Capture The Flag (CTF) challenge was organized by Project Black as part of their recruitment. 
+This Capture The Flag (CTF) challenge was organized by Project Black. 
 
 The challenge environment was intentionally vulnerable and designed to simulate realistic security weaknesses within a controlled environment. All testing and exploitation activities performed during this challenge were conducted within the scope of the CTF environment provided by the organizers.
